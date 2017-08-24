@@ -1,5 +1,5 @@
 # Emoji-Extractor
-* 絵文字のUnicode判定ツール
+* 絵文字のUnicode判定用コード出力ツール
 
 # 実行環境
 * Xcode 8.3.1
